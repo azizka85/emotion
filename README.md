@@ -1,6 +1,9 @@
 # emotion
  Testing Emotion CSS Library
 
+# to install this app
+run the command `npm i`
+
 # to build 
 need run command `npx webpack`
 
